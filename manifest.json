@@ -1,9 +1,9 @@
 {
   "name": "Play HTML5 Video in VLC",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
-  "homepage_url": "http://extensionizr.com",
+  "description": "Open HTML5 Vidoes in a new tab with direct ULR",
+  "homepage_url": "https://github.com/dharma-guardian/videoURLGrabber",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -19,8 +19,7 @@
   "options_page": "src/options_custom/index.html",
   "page_action": {
     "default_icon": "icons/icon19.png",
-    "default_title": "Play with VLC",
-    "default_popup": "src/page_action/page_action.html"
+    "default_title": "Open VideoURL in new tab"
   },
   "permissions": [
     "tabs",
