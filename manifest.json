@@ -1,5 +1,5 @@
 {
-  "name": "Play HTML5 Video in VLC",
+  "name": "VideoURLGrabber",
   "version": "0.0.2",
   "manifest_version": 2,
   "description": "Open HTML5 Vidoes in a new tab with direct ULR",
